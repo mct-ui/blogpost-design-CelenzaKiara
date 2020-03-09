@@ -180,14 +180,15 @@ a:focus {
 }
 
 .c-author__name,
-.c-author__title {
+.c-author__meta {
     margin-bottom: 0;
 }
 
-.c-author__title {
+.c-author__meta {
     font-size: 14px;
     font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 24px;
+    color: #5c6366;
 }
 
 .c-author__name {
