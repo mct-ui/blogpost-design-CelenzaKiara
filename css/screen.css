@@ -20,6 +20,8 @@ html {
     font-size: 16px;
     line-height: 1.5;
     font-family: "droid-serif", serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
    
 
     color: #5c6366
